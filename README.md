@@ -20,7 +20,7 @@ This integration helps automatically migrate legacy template sensor issues into 
 2. Restart Home Assistant
 3. Add Legacy Template Migration Helper in integrations
 
-<h1><a class="title-link" name="use" href="#Using the service"></a>Installation</h1>
+<h1><a class="title-link" name="use" href="#use></a>Directions</h1>
 
 1.  In **Develper Tools** -> **Actions** tab, select the `template_migration.generate_yaml` action.
 2.  Click **Perform action**
