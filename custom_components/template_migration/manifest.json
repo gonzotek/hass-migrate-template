@@ -1,0 +1,10 @@
+{
+  "domain": "template_migration",
+  "name": "Legacy Template Migration Helper",
+  "codeowners": ["@petro31"],
+  "config_flow": true,
+  "documentation": "https://github.com/petro31/hass-migrate-template",
+  "integration_type": "hub",
+  "issue_tracker": "https://github.com/petro31/hass-migrate-template/issues",
+  "version": "1.0.0"
+}
