@@ -15,7 +15,7 @@ This integration helps automatically migrate legacy template sensor issues into 
 2. Restart Home Assistant
 3. Add Legacy Template Migration Helper in integrations
 
-## without HACS
+## Without HACS
 1. Copy the contents of `custom_components/template_migration/` to `<config>/custom_components/template_migration/`
 2. Restart Home Assistant
 3. Add Legacy Template Migration Helper in integrations
